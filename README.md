@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/53415000/110635813-dfb03a00-81ee-11eb-9528-6ef09b33c20c.png)  ![image](https://user-images.githubusercontent.com/53415000/110635966-0bcbbb00-81ef-11eb-8509-581ea9ce9423.png) 
+
 # I-want-to-study-Data-Science
 - 데이터 사이언스를 공부하고 싶은 분들을 위한 글 
 
